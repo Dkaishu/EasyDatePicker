@@ -1,5 +1,9 @@
 # EasyDatePicker
 A simple dialog as a date picker
+output format：2017-8-22
+
+简洁的日期选择器 
+日期格式：2017-8-22
 
 How To Use It :
 
